@@ -14,7 +14,7 @@ Many real world system reaquire more than one IoT device to interact. This inter
 
 ### Grad students
 
-- [ ] Have two arduinos "talk" via bluetooth
+- [ ] Have two arduinos "talk" via (bluetooth)[https://en.wikipedia.org/wiki/Bluetooth]
 
 ## What you need to turn in
 
@@ -24,5 +24,3 @@ Many real world system reaquire more than one IoT device to interact. This inter
 ## Example output
 
 TODO
-
-## Resources
